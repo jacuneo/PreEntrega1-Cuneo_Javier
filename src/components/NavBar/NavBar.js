@@ -10,7 +10,7 @@ const NavBar = () => {
                 <nav>
                     <ul className='nav-links'>
                         <li><a href='#'>Mac</a></li>
-                        <li><a href='#'>ipad</a></li>
+                        <li><a href='#'>iPad</a></li>
                         <li><a href='#'>iPhone</a></li>
                     </ul>
                 </nav>
