@@ -1,0 +1,11 @@
+[
+    {"id":1, "nombre":"Iphone 14", "color":"negro, plata", "imagen":"https://http2.mlstatic.com/D_NQ_NP_605126-MLM51559383638_092022-V.webp", "precio":1040, "stock":10, "categoria":"iphone"},
+    {"id":2, "nombre":"Iphone 13", "color":"negro, plata", "imagen":"https://http2.mlstatic.com/D_NQ_NP_821416-MLA47781962896_102021-V.webp", "precio":910, "stock":10, "categoria":"iphone"},
+    {"id":3, "nombre":"Iphone 12", "color":"negro, plata", "imagen":"https://http2.mlstatic.com/D_NQ_NP_747995-MLA52769228948_122022-V.webp", "precio":810, "stock":10, "categoria":"iphone"},
+    {"id":4, "nombre":"Ipad Pro", "color":"negro, plata", "imagen":"https://http2.mlstatic.com/D_NQ_NP_848727-MLA46975166150_082021-V.webp", "precio":1500,"stock":10, "categoria":"ipad"},
+    {"id":5, "nombre":"Ipad Air", "color":"negro, plata", "imagen":"https://http2.mlstatic.com/D_NQ_NP_707342-MLA52222796949_102022-V.webp", "precio":1300, "stock":10, "categoria":"ipad"},
+    {"id":6, "nombre":"Ipad Mini", "color":"negro, plata", "imagen":"https://http2.mlstatic.com/D_NQ_NP_747995-MLA52769228948_122022-V.webp", "precio":1200, "stock":10, "categoria":"ipad"},
+    {"id":7, "nombre":"Macbook Pro 16", "color":"negro, plata", "imagen":"https://http2.mlstatic.com/D_NQ_NP_820949-MLA48352501449_112021-V.webp", "precio":2500, "stock":10, "categoria":"macbook"},
+    {"id":8, "nombre":"Macbook Pro 13", "color":"negro, plata", "imagen":"https://http2.mlstatic.com/D_NQ_NP_621087-MLA52537211561_112022-V.webp", "precio":1300, "stock":10, "categoria":"macbook"},
+    {"id":9, "nombre":"Macbook Air M1", "color":"negro, plata", "imagen":"https://http2.mlstatic.com/D_NQ_NP_614885-MLA49588273946_042022-V.webp", "precio":1200, "stock":10, "categoria":"macbook"}
+]
