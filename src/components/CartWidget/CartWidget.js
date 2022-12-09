@@ -4,10 +4,10 @@ import './cartwidget.css'
 
 const CartWidget = () => {
     return (
-        <div>
-        <a className='nav-carrito' href='#'><img src={carrito} alt='carrito navbar'></img></a>
-        <span className='cifra'>3</span>
-        </div>
+        <button type='button' className='btn btn-warning position-reative'>
+            <img src={carrito} alt='carrito' width='40' />
+            <span className='position-absolute top-0 start-100 badge rounded-pill bg-danger'>2</span>
+        </button>
     )
 }
 
